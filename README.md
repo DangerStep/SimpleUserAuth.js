@@ -8,6 +8,8 @@ You can install SimpleUserAuth.js using npm:
 
 ``npm install simpleuserauth``
 
+please run `generateKeys.js` to generate the keys for the RSA algorithm. DO NOT GENERATE A NEW KEYSET WHILE THE FILE IS ENCRYPTED OR YOU WILL LOSE ALL OF YOUR DATA.
+
 
 ## Usage
 
