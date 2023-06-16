@@ -1,0 +1,20 @@
+{
+  "name": "simple-user-auth",
+  "version": "1.0.0",
+  "description": "A simple user authorization and login library for a simple user management system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no testing\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "SimpleUserAuth.js"
+  },
+  "keywords": [
+    "login",
+    "auth",
+    "authorization"
+  ],
+  "author": "DangerStep",
+  "license": "MIT"
+}
