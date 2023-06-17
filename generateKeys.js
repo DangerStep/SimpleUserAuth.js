@@ -20,4 +20,6 @@ function generateKeyPair() {
   console.log('RSA key pair generated successfully.');
 }
 
-generateKeyPair();
+//generateKeyPair();
+
+module.exports = generateKeyPair;
